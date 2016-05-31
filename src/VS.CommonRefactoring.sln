@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VS.CommonRefactoring.Logic", "VS.CommonRefactoring.Logic\VS.CommonRefactoring.Logic\VS.CommonRefactoring.Logic.csproj", "{C8BAA69D-57CE-4597-A9BE-6A43D0EB0491}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VS.ConstructorInjection", "VS.CommonRefactoring.Logic\VS.CommonRefactoring.Logic.Vsix\VS.ConstructorInjection.csproj", "{CC5D9CB7-D070-41FC-BB87-2BF4CAD67FD3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8BAA69D-57CE-4597-A9BE-6A43D0EB0491}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8BAA69D-57CE-4597-A9BE-6A43D0EB0491}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8BAA69D-57CE-4597-A9BE-6A43D0EB0491}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8BAA69D-57CE-4597-A9BE-6A43D0EB0491}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC5D9CB7-D070-41FC-BB87-2BF4CAD67FD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC5D9CB7-D070-41FC-BB87-2BF4CAD67FD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC5D9CB7-D070-41FC-BB87-2BF4CAD67FD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC5D9CB7-D070-41FC-BB87-2BF4CAD67FD3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
